@@ -79,7 +79,7 @@ INSERT INTO track (name, duration, album_id) VALUES
 ('SOS', 250, 3);
 
 INSERT INTO compilations (title, release_year) VALUES
-('Compilation 1', 2022),
+('Compilation 1', 2019),
 ('Compilation 2', 2017),
 ('Compilation 3', 1975),
 ('Compilation 4', 1990);
