@@ -71,12 +71,12 @@ INSERT INTO album (name, year) VALUES
 ('Album_4', 1980);
 
 INSERT INTO track (name, duration, album_id) VALUES
-('Track 1', 380, 1),
-('Track 2', 340, 2),
-('Track 3', 420, 4),
-('Track 4', 400, 1),
-('Track 5', 210, 2),
-('Track 6', 250, 3);
+('Inception', 380, 1),
+('Till I Colapse', 340, 2),
+('My Name Is', 420, 4),
+('Come Together', 400, 1),
+('Time', 210, 2),
+('SOS', 250, 3);
 
 INSERT INTO compilations (title, release_year) VALUES
 ('Compilation 1', 2022),
